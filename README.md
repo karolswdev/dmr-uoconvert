@@ -24,4 +24,4 @@ Generally, you only want to run this for a first-time setup, or after changing a
 
 ## Current build status
 
-![.github/workflows/main.yml](https://github.com/karolswdev/dmr-uoconvert/workflows/.github/workflows/main.yml/badge.svg)
+![Build status](https://github.com/karolswdev/dmr-uoconvert/workflows/CI/CD/badge.svg)
