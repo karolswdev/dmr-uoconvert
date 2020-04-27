@@ -32,3 +32,4 @@ cp landtiles.cfg /realm
 ./uoconvert maptile realm=tokuno
 
 mv realm/* /realm
+rm *.cfg /realm
